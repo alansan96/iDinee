@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		690EF9BA2539513200E1DF25 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 690EF9B92539513200E1DF25 /* CheckoutView.swift */; };
 		69F90F612535D01B00835E30 /* iDineeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F90F602535D01B00835E30 /* iDineeApp.swift */; };
 		69F90F632535D01B00835E30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69F90F622535D01B00835E30 /* ContentView.swift */; };
 		69F90F652535D01C00835E30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69F90F642535D01C00835E30 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		690EF9B92539513200E1DF25 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		69F90F5D2535D01B00835E30 /* iDinee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDinee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69F90F602535D01B00835E30 /* iDineeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineeApp.swift; sourceTree = "<group>"; };
 		69F90F622535D01B00835E30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 				69F90F7B2535D3F100835E30 /* ItemRow.swift */,
 				69F90F7E2536089500835E30 /* ItemDetail.swift */,
 				69F90F8125360F2200835E30 /* OrderView.swift */,
+				690EF9B92539513200E1DF25 /* CheckoutView.swift */,
 				69F90F702535D07200835E30 /* Helper.swift */,
 				69F90F742535D09000835E30 /* Menu.swift */,
 				69F90F732535D09000835E30 /* Order.swift */,
@@ -165,6 +168,7 @@
 			files = (
 				69F90F7F2536089500835E30 /* ItemDetail.swift in Sources */,
 				69F90F8225360F2300835E30 /* OrderView.swift in Sources */,
+				690EF9BA2539513200E1DF25 /* CheckoutView.swift in Sources */,
 				69F90F852536102800835E30 /* AppView.swift in Sources */,
 				69F90F632535D01B00835E30 /* ContentView.swift in Sources */,
 				69F90F612535D01B00835E30 /* iDineeApp.swift in Sources */,
